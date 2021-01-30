@@ -6,6 +6,7 @@ Assignments 5-9 I did with XAMPP that had Apache2, MySQL and Laravel installed. 
 Keywords:
 - PHP
 - Laravel
+- Blade
 - XAMPP
 
 Grade:
