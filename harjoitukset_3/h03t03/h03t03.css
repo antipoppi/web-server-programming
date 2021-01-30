@@ -1,0 +1,41 @@
+body {
+    background-color: gainsboro;
+}
+
+#container {
+    background-color: white;
+    padding: 5px;
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#container p, h1 {
+    text-align: center;
+}
+
+#navbar {
+    background-color: lavender;
+}
+
+#id {
+    background-color: greenyellow;
+}
+
+#flog p {
+    text-align: right;
+}
+
+#flog input {
+    margin-right: 30%;
+    width: 33%;
+    margin-left: 5px;
+}
+
+span {
+    padding: 0 5px 0 5px;
+}
+
+#button {
+    width: 33%;
+}
